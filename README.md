@@ -1,2 +1,28 @@
-# LPMP-library
-Fast and memory-efficient coin minimization algorithm using recursive modular pruning. Free for personal use, commercial use requires a license.
+# Lau Modular Pruning Method (LMPM)
+
+*Author:* Lau Boon Wui  
+*Date:* 2025-11-11
+
+---
+
+## Description
+
+LMPM is an efficient method to compute the minimal number of coins for a target sum using *modular pruning* and *early stopping*, making it feasible for extremely large targets (up to trillions) with irregular coin sets.
+
+---
+
+## Features
+
+- Works with very large datasets
+- Minimal memory usage
+- Early stopping to reduce computation
+- Optional alternative splits for irregular coin sets
+
+---
+
+## Installation
+
+Just download lmpm.py and import it:
+
+```python
+from lmpm import minimal_coins

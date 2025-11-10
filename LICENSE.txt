@@ -1,0 +1,13 @@
+LMPM License
+
+Copyright 2025 Lau Boon Wui
+
+Usage:
+- Free for personal and educational use
+- Commercial use requires a paid license from the author
+
+You may not copy, modify, or redistribute this software for commercial purposes without explicit permission.
+
+All rights reserved.
+
+Contact: Lbwui@hotmail.com
