@@ -19,15 +19,6 @@ LMPM is an efficient method to compute the minimal number of coins for a target 
 - Optional alternative splits for irregular coin sets
 
 ---
-
-## Installation
-
-Just download lmpm.py and import it:
-
-```python
-
-from lmpm import minimal_coins
-
 # LMPM Coin Minimization Library
 
 A fast, memory-efficient algorithm for minimizing coins using recursive modular pruning. Ideal for small to extremely large datasets.
@@ -43,3 +34,11 @@ A fast, memory-efficient algorithm for minimizing coins using recursive modular 
 
 ## License
 This project is licensed under the terms in LICENSE.txt.
+
+## Installation
+
+Just download lmpm.py and import it:
+
+```python
+
+from lmpm import minimal_coins
